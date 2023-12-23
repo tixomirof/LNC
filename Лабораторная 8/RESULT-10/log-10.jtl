@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1703201470578,217,HTTP Request,200,OK,Users 1-3,text,true,,63644,121,5,5,http://irkutsk.holme.ru/,93,0,37
+1703201470543,296,HTTP Request,200,OK,Users 1-2,text,true,,62542,121,4,4,http://irkutsk.holme.ru/,128,0,76
+1703201470543,296,HTTP Request,200,OK,Users 1-1,text,true,,62598,121,4,4,http://irkutsk.holme.ru/,136,0,76
+1703201470679,225,HTTP Request,200,OK,Users 1-4,text,true,,62863,121,3,3,http://irkutsk.holme.ru/,76,0,35
+1703201470776,280,HTTP Request,200,OK,Users 1-5,text,true,,63524,121,3,3,http://irkutsk.holme.ru/,125,0,60
+1703201470875,207,HTTP Request,200,OK,Users 1-6,text,true,,62615,121,3,3,http://irkutsk.holme.ru/,75,0,35
+1703201470975,247,HTTP Request,200,OK,Users 1-7,text,true,,63512,121,3,3,http://irkutsk.holme.ru/,83,0,38
+1703201471073,231,HTTP Request,200,OK,Users 1-8,text,true,,63379,121,3,3,http://irkutsk.holme.ru/,85,0,41
+1703201471174,207,HTTP Request,200,OK,Users 1-9,text,true,,62869,121,2,2,http://irkutsk.holme.ru/,72,0,32
+1703201471272,213,HTTP Request,200,OK,Users 1-10,text,true,,62720,121,1,1,http://irkutsk.holme.ru/,72,0,32
